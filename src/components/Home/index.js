@@ -2,7 +2,7 @@ import React from 'react'
 import './style.css'
 import Picture from '../Home/AboutMe.jpg'
 import DownloadPic from '../Home/DownloadPic.png'
-// import Resume from '../Home/Resume.html'
+import Resume from '../Home/Resume414.pdf'
 
 
 function Home() {
@@ -25,7 +25,7 @@ function Home() {
 
                   (does it ever end?) and last but definitely not least coding passion projects. Feel free to reach out to me at any of the links to the side and view my resume. 
                     </div>
-                        <p id="downloadResume">Download resume <a href="Resume" title="Download Resume" download="Manuel Chacon" ><img className="download" width="30px" height="30px" src={DownloadPic} alt="Resume download button" /></a>
+                        <p id="downloadResume">Download resume <a href={Resume} title="Download Resume" download="Manuel Chacon" ><img className="download" width="30px" height="30px" src={DownloadPic} alt="Resume download button" /></a>
                         </p>
                     </div>
                 </div>
