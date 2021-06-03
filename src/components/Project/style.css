@@ -1,0 +1,26 @@
+.container {
+  margin-top: 40px;
+  border: 1px solid #77246c;
+  border-radius: 20px;
+}
+
+#appName {
+  text-align: center;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: #77246c;
+}
+
+#image {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  margin: 0px;
+}
+
+a {
+  margin-right: 10px;
+  margin-bottom: 20px;
+}

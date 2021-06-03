@@ -1,0 +1,9 @@
+  
+.tab {
+    color: #77246c;
+    font-weight: bold;
+  }
+  
+  .tab:hover {
+    color: #5b1952;
+  }
