@@ -19,7 +19,7 @@ function Home() {
                     </div>
                     <div className="card col-12 col-md-6 col-lg-7 ol-xl-7" style={{ margin: "0px", border: "none", paddingTop: "50px" }}>
                         <div >
-                  Hey there! My name's Manny. I'm a full stack Web Developer with a background in customer servive, production, and management of medium
+                  Hey there! My name's Manny. I'm a full stack Web Developer with a background in customer service, production, and management of medium
 
                   size teams in fast paced environments. In my time off you can find me diving into an rpg, playing DND with friends, logging into a video game, hiking, working on my project cars
 
