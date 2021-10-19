@@ -3,11 +3,19 @@ import Project from "../Project";
 import Readme from "../Projects/ReadMe.png";
 import WeatherDashdboard from "../Projects/WeatherDashboard.png";
 import WorkScheduler from "../Projects/WorkScheduler.png";
+import Cosmopawlitan from "../Projects/Cosmopawlitan.png";
 
 
 function Portfolio() {
   return (
       <div>
+        <Project
+          name="Cosmopawlitan"
+          image={Cosmopawlitan}
+          description= "Website created to help in the adoption of animals from local shelters"
+          deploy="https://stark-anchorage-96319.herokuapp.com/"
+          repository="https://github.com/Artydabomb/Animal-Adoption-Database" 
+        />
         <Project
           name="Readme Generator"
           image={Readme}
